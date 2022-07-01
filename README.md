@@ -23,7 +23,7 @@ The easyATnoX is, as the name suggests, a simplified version of the [ATnoX](http
 - Diagnostic LED's for the voltages have been removed
 - The 14-pin ATX2AT connector has been removed and replaced with removable screw terminals. According to the pin assignment of the original AT connectors (P8 and P9). The reason is that in this way the two power cables (P8 and P9) from an old AT power supply unit can simply be cut off - and fitted with ferrules can be screwed to the screw terminals.
 - Components are now only to be installed single sided.
-- [Fabrication files](/KiCAD/jlcpcb/) for JLCPCB incl. [BOM](/KiCAD/jlcpcb/assembly/BOM-MouseBite.csv) have been generated!
+- [Fabrication files](/KiCAD/jlcpcb/) for JLCPCB including [BOM](/KiCAD/jlcpcb/assembly/BOM-MouseBite.csv) have been generated!
 
 ## Untouched features
 
@@ -40,3 +40,7 @@ The easyATnoX is, as the name suggests, a simplified version of the [ATnoX](http
 ## Pinout
 
 ![AT connector standard pinout](Images/at_connector.png)
+
+## Component list
+
+Production files for JLCPCB including BOM [can be found here](/KiCAD/jlcpcb/).
