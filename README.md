@@ -50,6 +50,8 @@ The easyATnoX is, as the name suggests, a simplified version of the [ATnoX](http
 
 Production files for JLCPCB including BOM [can be found here](/KiCAD/jlcpcb/).
 
+![BOM](Images/bom.png)
+
 ## Credits
 
 - Many thanks to [khalil_28](https://www.fiverr.com/khalil_28) who implemented all these changes for me!
