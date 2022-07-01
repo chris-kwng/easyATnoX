@@ -44,3 +44,10 @@ The easyATnoX is, as the name suggests, a simplified version of the [ATnoX](http
 ## Component list
 
 Production files for JLCPCB including BOM [can be found here](/KiCAD/jlcpcb/).
+
+## Credits
+
+- ATnoX taken from [hkzlab/ATnoX](https://github.com/hkzlab/ATnoX)
+  - logic-4000 libraries taken from [alexisvl/kicad-schlib](https://github.com/alexisvl/kicad-schlib)
+  - ATX power-on circuit taken from [skiselev/isa8_backplane](https://github.com/skiselev/isa8_backplane)
+  - Amiga Tick generator taken from [Aminet](http://aminet.net/package/docs/hard/Mix_and_Tick)
