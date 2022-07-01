@@ -47,6 +47,7 @@ Production files for JLCPCB including BOM [can be found here](/KiCAD/jlcpcb/).
 
 ## Credits
 
+- Many thanks to [khalil_28](https://www.fiverr.com/khalil_28) who implemented all these changes for me!
 - ATnoX taken from [hkzlab/ATnoX](https://github.com/hkzlab/ATnoX)
   - logic-4000 libraries taken from [alexisvl/kicad-schlib](https://github.com/alexisvl/kicad-schlib)
   - ATX power-on circuit taken from [skiselev/isa8_backplane](https://github.com/skiselev/isa8_backplane)
