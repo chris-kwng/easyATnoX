@@ -33,6 +33,11 @@ The easyATnoX is, as the name suggests, a simplified version of the [ATnoX](http
 - Power on button included on board for bench testing
 - Optional amiga Tick generator (also via removable screw terminal)
 
+## ToDo's
+
+- **Test, test and test again!** Please let me know if you are using this PCB and have encountered a problem. Also if you simply have a feature request.
+- **Designing an easy to assemble and mount enclosure for 3D printers.**
+
 ## Screw terminal type
 
 ![removable screw terminal](Images/removable_screw_terminals.png)
