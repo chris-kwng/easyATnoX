@@ -15,10 +15,19 @@ The easyATnoX is, as the name suggests, a simplified version of the [ATnoX](http
 
 ![easyATnoX PCB](Images/easyATnoX_top.png)
 
-## Changes are:
+## Changes are ...
 
 - Two PCB copies were accommodated on the area of 100 x 100 mm and separated by means of mouse bites. An easyATnoX therefore has the dimensions of approximately 100 x 50 mm. The background to this is the $2 PCB offer from JLCPCB.
 - The 4 layer PCB became a 2 layer PCB.
 - SMD and SMT components replaced by through-hole components as far as possible.
 - Diagnostic LED's for the voltages have been removed
-- 
+- The 14-pin ATX2AT connector has been removed and replaced with removable screw terminals. According to the pin assignment of the original AT connectors (P8 and P9).
+- ghjghj
+
+## Screw terminal type
+
+![removable screw terminal](Images/removable_screw_terminals.png)
+
+## Pinout
+
+![AT connector standard pinout](Images/at_connector.png)
