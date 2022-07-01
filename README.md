@@ -1,7 +1,7 @@
 # easyATnoX
 Modified version of hkzlab's [ATnoX](https://github.com/hkzlab/ATnoX)
 
-![easyATnoX PCB](Images/easyATnoX_top.png.png)
+![easyATnoX PCB](Images/easyATnoX_top.png)
 
 Details will follow shortly ...
 
